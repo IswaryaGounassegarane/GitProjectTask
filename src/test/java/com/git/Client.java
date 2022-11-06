@@ -9,7 +9,19 @@ public class Client {
 	public void clientName() {
 		System.out.println("clientName");
 	}
-	private void clientSalary() {
+	public void clientSalary() {
 	System.out.println("salary");
+	}
+	public void clientCompany() {
+		System.out.println("Company");
+
+	}
+	public void clientPayroll() {
+		System.out.println("Payroll");
+
+	}
+	public void clientProject() {
+	System.out.println("Project");
+
 	}
 }
